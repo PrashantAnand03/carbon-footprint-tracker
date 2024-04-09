@@ -46,3 +46,6 @@ Despite facing these challenges, our team persevered, dedicating ourselves to ov
 https://carbon-footprint-tracker-sigma.vercel.app/
 
 
+![tracker_screshot](https://github.com/PrashantAnand03/Carbon-footprint-tracker/assets/106450463/0d93af49-c091-42d1-9692-ea3d55fa1221)
+
+
